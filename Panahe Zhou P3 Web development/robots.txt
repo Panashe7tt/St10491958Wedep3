@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.siyazamaconstruction.co.za/sitemap.xml
+
+# Crawl directives for search engines
+Crawl-delay: 1
+
+# Allow social media bots
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
