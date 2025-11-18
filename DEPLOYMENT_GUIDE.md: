@@ -1,0 +1,24 @@
+# Deployment Guide
+
+## Pre-deployment Checklist
+- [ ] Test all forms functionality
+- [ ] Validate HTML and CSS
+- [ ] Optimize image sizes
+- [ ] Test responsive design
+- [ ] Verify Google Maps integration
+- [ ] Check cross-browser compatibility
+
+## Deployment Steps
+1. Choose hosting provider (Netlify, Vercel, or traditional web hosting)
+2. Upload all project files to server
+3. Configure custom domain (if applicable)
+4. Set up SSL certificate
+5. Submit sitemap to Google Search Console
+6. Test live site functionality
+
+## Post-deployment
+- Monitor website analytics
+- Set up Google Search Console
+- Configure Google Analytics
+- Test contact form submissions
+- Verify mobile responsiveness
